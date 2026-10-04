@@ -1,1 +1,16 @@
-A wild, all-in-one resource repository. Everything is here — apps, tools, files, and more. Continuously updated. Think of it as an unofficial, wild app store. No guarantees, no support. Use at your own risk. Contents may change without notice. Access at your own discretion.
+Statement
+
+Dear Users,
+
+Regarding the issue of unreviewed content being directly published to this resource repository, I sincerely apologize. Due to automated bot hosting without manual review, malicious files including trojans, viruses, and cracked software were uploaded by users and went live directly.
+
+This has been handled. All offending content has been removed, the responsible accounts have been banned, and evidence has been preserved. Auto-publishing has been suspended and will be replaced with review before release.
+
+The resource repository is temporarily closed and unavailable for use.
+
+If you downloaded suspicious files recently, please run a full antivirus scan and change important passwords.
+
+I take full responsibility and will prevent this from happening again.
+
+[Your Repository Name]
+October 4, 2026
