@@ -12,5 +12,4 @@ If you downloaded suspicious files recently, please run a full antivirus scan an
 
 I take full responsibility and will prevent this from happening again.
 
-[Your Repository Name]
 October 4, 2026
